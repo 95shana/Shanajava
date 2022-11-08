@@ -13,7 +13,7 @@ import com.example.demo.mpdel.Usershana;
 public class Controllerhome {
 	@GetMapping("/")
 	public String shaa() {
-		// commment
+		// commment // from server
 		return "shana";
 		
 	}
